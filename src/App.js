@@ -64,7 +64,6 @@ class App extends Component {
    */
   randomBg() {
     const index = Math.floor(Math.random() * bgMap.length);
-    console.log(bgMap[index]);
     this.setState({bg: bgMap[index]});
   }
 
