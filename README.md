@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Last%20update-2020--03--14-green" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-yellowgreen">
+  <img src="https://img.shields.io/badge/Last%20update-2020--05--10-green" />
+  <img src="https://img.shields.io/badge/Version-1.1.0-yellowgreen">
 </div>
 
 ## source API

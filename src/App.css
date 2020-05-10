@@ -8,12 +8,18 @@
   opacity: 0.8;
 }
 
+.app .animate-quote {
+  animation: slideInRight;
+  animation-duration: 0.5s;
+}
+
 .app .wrapper {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   width: 500px;
+  margin: 0 5rem;
 }
 
 .app .wrapper .quote-box {
@@ -52,12 +58,14 @@
   box-shadow: 0 0 10px 1px #ccc;
 }
 
-.app .wrapper .footer {
-  font-size: 12px;
+.app .footer {
+  font-size: 14px;
   margin-top: 20px;
+  position: absolute;
+  bottom: 50px;
 }
 
-.app .wrapper .footer a {
+.app .footer a {
   color: #FFF;
   text-decoration: none;
 }
